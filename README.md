@@ -1,7 +1,3 @@
-# sentiment-analysis
-To write a **README** file for your **Sentiment Analysis** project, you want to provide clear and concise information about your project, its purpose, how to use it, and any other relevant details. Here's a sample template to get you started:
-
----
 
 # Sentiment Analysis Project
 
